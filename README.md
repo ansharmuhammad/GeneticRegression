@@ -1,5 +1,5 @@
 # Prediksi Nilai Tukar Mata Uang JPY -> USD (Algoritma Genetika dan Multiple Linear Regression)
-## optimasi regresi dengan algoritma genetika untuk prediksi nilai tukar mata uang JPY -> USD.
+optimasi regresi dengan algoritma genetika untuk prediksi nilai tukar mata uang JPY -> USD.
 
 ## Data
 
